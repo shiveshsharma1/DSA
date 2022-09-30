@@ -1,5 +1,6 @@
  // C program to check the valididy of an email address
-//2115014
+//Name - Sharma Shivesh Ranjeet Kumar
+//Scholar id - 2115014
 
 #include <stdio.h>
 #include <stdbool.h>
