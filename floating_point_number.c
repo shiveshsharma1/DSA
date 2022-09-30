@@ -1,4 +1,6 @@
 //C program to check whether given floating point number is valid or not
+//Name - Sharma Shivesh Ranjeet Kumar
+//Scholar id - 2115014
 
 #include <stdio.h>
 #include <stdlib.h>
