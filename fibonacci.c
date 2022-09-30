@@ -1,5 +1,7 @@
 /********************************************
 C program to find nth Fibonacci number
+Name - Sharma Shivesh Ranjeet Kumar
+Scholar id - 2115014
 ********************************************/
 #include<stdio.h>
 #include<math.h>
